@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning **Vue.js**, **Golang**, and **Express.js**
 - 💬 Ask me about **frontend magic**, **Vue**, or **local LLM integration**
 - 🌌 I dream of building tech that feels like it came out of a sci-fi anime
-- 💖 Slice of life + romance anime is my comfort zone
-- 🐧 I do most of my work on **Linux**
+- 💖 Slice of life + romance anime is my comfort zone.
 
 ---
 
@@ -60,7 +59,6 @@
 ### 🌸 Quote of the Day
 
 > *"Even if things are painful and tough, people should appreciate what it means to be alive."*  
-> — **Yui Ikari**, *Neon Genesis Evangelion*
 
 ---
 
