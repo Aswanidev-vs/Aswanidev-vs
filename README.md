@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hi there, I'm Aswanidev 🌸</h1>
-<h3 align="center">A passionate developer & anime enjoyer from India 🇮🇳</h3>
+<h3 align="center">A passionate developer & anime enjoyer from India In</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue.js+%2B+Go+enthusiast;Loves+clean+code+%26+anime;Building+something+awesome+offline+AI+chat+app" alt="Typing SVG" />
