@@ -10,8 +10,7 @@
 ### 🧠 About Me
 
 - 🌱 I’m currently learning **Vue.js**, **Golang**, and **Express.js**
-- 💬 Ask me about **frontend magic**, **Vue**, or **local LLM integration**
-- 🌌 I dream of building tech that feels like it came out of a sci-fi anime
+- 💬 Ask me about **frontend **, **Vue**, or **local LLM integration**
 - 💖 Slice of life + romance anime is my comfort zone.
 
 ---
