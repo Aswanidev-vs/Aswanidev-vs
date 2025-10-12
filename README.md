@@ -20,7 +20,7 @@
 ### 🌐 Connect With Me
 
 
-  <a href="[https://linkedin.com/in/aswanidev](https://www.linkedin.com/in/aswanidev-vs-88738737a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/aswanidev-vs-88738737a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aswanidevvsoffical@gmail.com">
