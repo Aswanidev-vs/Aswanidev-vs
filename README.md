@@ -21,5 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&locale=en" alt="Aswanidev-vs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswanidev-vs&" alt="Aswanidev-vs" /></p>
-
