@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **a custom Git GUI** and another **intermediate-to-large Go project**  
 - 💡 Exploring **system tools**, **offline AI**, and **cross-platform Go applications**  
-- 🧰 I enjoy blending **Go + Vue.js + Docker** to build performant full-stack apps  
+- 🧰 I enjoy blending **Go + Docker** to build performant full-stack apps  
 - 🌱 Currently improving my skills in **concurrency**, **Fyne GUI**, and **CLI tool design**  
 - 📫 Reach me at 👉 **[My Portfolio](https://aswanidev-vs.github.io/Portfolio/)**  
 - 💬 Ask me about **Go, backend design, CLI tools, and local AI projects**
@@ -62,7 +62,7 @@
 
 ---
 
-### ⚙️ Featured Projects
+### ⚙️ Featured Projects and Future projects
 
 🚀 [**GitScope**](https://github.com/Aswanidev-vs/GitScope) — A clean, fast Git GUI built in Go (Fyne-based).  
 🧠 **Offline AI Assistant** — Cross-platform voice-based AI app using Go + local LLMs.  
@@ -78,7 +78,6 @@
 
 ### 🐍 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true)
 
 ---
 
