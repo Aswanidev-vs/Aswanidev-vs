@@ -2,6 +2,8 @@
 
 ### A passionate Go developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aswanidev-vs&label=Profile views&color=0e75b6&style=flat" alt="Aswanidev-vs" /> </p>
+
 - 🔭 I'm currently working on **A Git-gui and another intermediate to big project is on the way**
 
 - 📫 How to reach me **https://aswanidev-vs.github.io/Portfolio/**
@@ -20,4 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswanidev-vs&show_icons=true&locale=en&layout=compact" alt="Aswanidev-vs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&locale=en" alt="Aswanidev-vs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswanidev-vs&" alt="Aswanidev-vs" /></p>
 
