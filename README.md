@@ -1,73 +1,25 @@
-<h1 align="center">Hi there, I'm Aswanidev Vs 👋</h1>
-<h3 align="center">A passionate full-stack developer & anime enjoyer from India 🇮🇳</h3>
+# Hi 👋, I'm Aswanidev-vs
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Vue.js+%2B+Go+Enthusiast;Loves+Clean+Code+%26+Anime;Building+an+Offline+AI+Chat+App" alt="Typing SVG" />
-</p>
+### A passionate Go developer
 
----
+- 🔭 I'm currently working on **A Git-gui and another intermediate to big project is on the way**
 
-### 🧠 About Me
+- 📫 How to reach me **https://aswanidev-vs.github.io/Portfolio/**
 
-- 🌱 Currently learning **Vue.js**, **Golang**, and **Express.js**
-- 💬 Ask me about **frontend development**, **Vue**, or **local LLM integrations**
-- 💖 Slice-of-life and romance anime are my comfort zone  
-- ⚙️ Focused on creating performant, privacy-friendly, and offline-ready web apps  
-- 🚀 Always exploring better ways to write clean, scalable, and human-friendly code  
+- 👨‍💻 All of my projects are available at **[https://aswanidev-vs.github.io/Portfolio/](https://aswanidev-vs.github.io/Portfolio/)**
 
----
-
-### 🌐 Connect With Me
-
-
-  <a href="https://www.linkedin.com/in/aswanidev-vs-88738737a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aswanidevvsoffical@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Golang"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+<a href="https://github.com/Aswanidev-vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aswanidev-vs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Aswanidev VS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aswanidev VS" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a></p>
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswanidev-vs&show_icons=true&locale=en&layout=compact" alt="Aswanidev-vs" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswanidev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&locale=en" alt="Aswanidev-vs" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aswanidev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswanidev-vs&" alt="Aswanidev-vs" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanidev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🌸 Quote of the Day
-
-> *"Even if things are painful and tough, people should appreciate what it means to be alive."*  
-> — *Yui Ikari (Neon Genesis Evangelion)*
-
----
-
-<p align="center">
-  <em>Thanks for stopping by — may our paths cross again like characters in a story ✨</em>
-</p>
