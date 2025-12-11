@@ -44,7 +44,7 @@
 <p align="center">
   <h3>Languages, Frameworks, & Tools</h3>
   <img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode" style="margin-bottom: 5px;" />
-  <h3>Focus Areas (UI, Concurrency, AI)</h3>
+  <h3>Planning to Learn in future </h3>
   <img src="https://skillicons.dev/icons?i=figma,neovim" height="45" />   <img src="https://img.shields.io/badge/Fyne_UI-Cross--Platform-000000?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/LLMs/AI-Local_Workflows-00C2FF?style=for-the-badge&logo=openai" />
 </p>
