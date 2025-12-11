@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Aswanidev+VS;Go+Developer;Backend+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Aswanidev+VS;Go+Developer;">
 </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/main/assets/wave.svg" width="100%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aswanidev-vs&label=Profile+Views&color=00c2ff&style=for-the-badge" />
