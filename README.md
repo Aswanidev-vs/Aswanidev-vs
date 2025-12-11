@@ -1,94 +1,91 @@
-# 👋 Hi there, I'm **Aswanidev VS**
+<!-- Animated Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Aswanidev+VS;Go+Developer;">
+</h1>
 
-### 💻 Passionate **Go Developer** | 🚀 Building Scalable & Practical Applications
+
+
+## 🔥 Who I Am
+
+💡 Go developer focused on **developer tools**, **system utilities**, and **local AI workflows**  
+⚙️ Building a **Git GUI in Go**, an offline **AI assistant**, and a **high speed file transfer app**  
+🌱 Improving skills in **concurrency**, **Fyne UI**, backend design, and AI system integration  
+🚀 Passionate about tools that boost developer speed and productivity  
+
+📬 Contact me → **https://aswanidev-vs.github.io/Portfolio/**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aswanidev-vs&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/Aswanidev-vs?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aswanidev-vs?label=Followers&style=for-the-badge" alt="followers" />
-  </a>
-  <a href="https://aswanidev-vs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" />
-  </a>
+  <a href="https://github.com/Aswanidev-vs"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  <a href="https://linkedin.com/in/aswanidev-vs"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="https://aswanidev-vs.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=html" height="45" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently working on **a custom Git GUI** and another **intermediate-to-large Go project**  
-- 💡 Exploring **system tools**, **offline AI**, and **cross-platform Go applications**  
-- 🧰 I enjoy blending **Go + Docker** to build performant full-stack apps  
-- 🌱 Currently improving my skills in **concurrency**, **Fyne GUI**, and **CLI tool design**  
-- 📫 Reach me at 👉 **[My Portfolio](https://aswanidev-vs.github.io/Portfolio/)**  
-- 💬 Ask me about **Go, backend design, CLI tools, and local AI projects**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Aswanidev-vs" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/aswanidev-vs" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://aswanidev-vs.github.io/Portfolio/" target="blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="Portfolio" height="40"/>
-  </a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,html,css,js,php,mysql,bash,cpp,java,docker,git,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswanidev-vs&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
+  <img src="https://skillicons.dev/icons?i=go,html,css,js,php,mysql,bash,cpp,java,docker,git,vscode&perline=6" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+### 📌 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### 📌 Stats and Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanidev-vs&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+### 📌 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aswanidev-vs&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswanidev-vs&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### ⚙️ Featured Projects and Future projects
-
-🚀 [**GitScope**](https://github.com/Aswanidev-vs/GitScope) — A clean, fast Git GUI built in Go (Fyne-based).  
-🧠 **Offline AI Assistant** — Cross-platform voice-based AI app using Go + local LLMs.  
-📡 **FileShare** — High-speed, offline file-sharing app (PC ↔ Phone) built with Vue + Go.
-
----
-
-### ☕ Fun Fact
-
-> I love solving problems using Go, exploring open-source projects, and crafting clean UIs for developer tools.
-
----
-
-### 🐍 GitHub Contribution Graph
-
-
----
-
-### 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aswanidev-vs&theme=onestar&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aswanidev-vs&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **[GitScope](https://github.com/Aswanidev-vs/GitScope)**  
+Modern Git GUI built in Go, clean UI, fast operations
+
+🔹 **[Writedown](https://github.com/Aswanidev-vs/Writedown)**  
+A Terminal based simple note app 
+
+## 😄 Fun Fact
+
+> Go feels like home. I enjoy crafting tools that make developers faster.
 
 ---
 
 <p align="center">
-  <b>⭐️ “Code. Build. Learn. Repeat.” ⭐️</b>
+  <img src="https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/main/assets/wave.svg" width="100%" />
 </p>
+
+<h3 align="center">⭐ Code. Build. Learn. Repeat. ⭐</h3>
