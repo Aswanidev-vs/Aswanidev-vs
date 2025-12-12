@@ -26,8 +26,12 @@
 <p align="center">
   📧 **Contact me** → <a href="https://aswanidev-vs.github.io/Portfolio/">**Visit Portfolio**</a>
 </p>
+<p align="center">
+  📧 Connect with me: <a href="mailto:workwithsakuta@protonmail.com">Contact Me</a>
+</p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
