@@ -72,32 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-### 📌 Stats and Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswanidev-vs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanidev-vs&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
-### 📌 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswanidev-vs&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aswanidev-vs&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
 
 ---
 
