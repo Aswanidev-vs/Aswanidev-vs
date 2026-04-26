@@ -1,16 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2200&color=00C2FF&center=true&vCenter=true&width=800&lines=Aswanidev+VS;Go+Developer;Building+Fast+%26+Practical+Tools;Local+AI+Enthusiast" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aswanidev-vs&label=Profile+Views&color=00c2ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Aswanidev-vs?label=Followers&color=blue&style=for-the-badge" />
-  <a href="https://aswanidev-vs.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-00C2FF?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
-
----
 
 ## ⚡ Who Am I
 
