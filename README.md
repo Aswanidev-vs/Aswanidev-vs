@@ -69,23 +69,6 @@ Privacy-first design
 </p>
 
 ---
-
-## 🌟 Featured Work
-
-### 🛠️ GitScope
-
-Modern Git GUI focused on speed and clarity
-🔗 https://github.com/Aswanidev-vs/GitScope
-
----
-
-### 📝 Writedown
-
-Minimal CLI note-taking tool
-🔗 https://github.com/Aswanidev-vs/Writedown
-
----
-
 ## 📊 Activity
 
 <p align="center">
@@ -93,8 +76,6 @@ Minimal CLI note-taking tool
 </p>
 
 ---
-
-
 
 ## 🌌 Mindset
 
