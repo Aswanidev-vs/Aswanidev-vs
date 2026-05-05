@@ -31,20 +31,6 @@ me := Developer{
 </p>
 
 ---
-
-
-## 🚀 What I Build
-
-🛠️ **Developer-first tools** that actually improve workflow<br />
-
-⚡ **High-performance systems** using Go<br />
-
-🤖 **Offline AI applications** (LLMs + TTS)
-
-📦 **Cross-platform utilities** that just work
-
----
-
 ## Projects
 
 *  **GitScope**
