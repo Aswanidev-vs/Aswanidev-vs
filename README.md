@@ -6,8 +6,6 @@ type Developer struct {
     Focus       []string
     Philosophy  string
 }
-
-
 me := Developer{
     Name: "Aswanidev VS",
     Role: "Go Developer",
