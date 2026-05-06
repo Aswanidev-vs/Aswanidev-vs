@@ -1,6 +1,4 @@
-
-## ⚡ Who Am I
-
+## ⚡ Who Am I 
 ```go
 type Developer struct {
     Name        string
@@ -23,13 +21,7 @@ me := Developer{
 
 ```
 ---
-## 📬 Reach Me
-
-<p align="center">
-  🌐 <a href="https://aswanidev-vs.github.io/Portfolio/">Portfolio</a>  
-  📧 <a href="mailto:workwithsakuta@protonmail.com">workwithsakuta@protonmail.com</a>
-</p>
-
+## 📬 Reach Me 🌐 <a href="https://aswanidev-vs.github.io/Portfolio/">Portfolio</a> 📧 <a href="mailto:workwithsakuta@protonmail.com">workwithsakuta@protonmail.com</a>
 ---
 ## Projects
 
