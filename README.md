@@ -55,22 +55,9 @@ Privacy-first design
   <img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode" />
 </p>
 
----
 
-## 🧪 Exploring Next
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,neovim" height="45" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fyne_UI-Cross--Platform-000000?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Local_LLMs-Offline_AI-00C2FF?style=for-the-badge" />
-</p>
-
----
 ## 📊 Activity
-
+---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
 </p>
