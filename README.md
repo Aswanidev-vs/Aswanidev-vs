@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aswanidev vs
+#  Hey, I'm Aswanidev vs
 
 <div align="center">
 
