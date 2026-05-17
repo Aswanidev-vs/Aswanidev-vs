@@ -1,12 +1,12 @@
-# Hey, I'm Aswanidev vs
+# 👋 Hey, I'm Aswani
 
 <div align="center">
 
-### Golang Developer • Builder • Open Source Enthusiast
+### ⚡ Golang Developer • Builder • Open Source Enthusiast
 
 <p>
-I enjoy building fast, practical, and privacy-focused software using Go.
-Most of my projects focus on performance, developer experience, local-first systems, and clean UI/UX.
+I build fast, practical, and privacy-focused software using Go.
+Focused on local-first systems, developer tooling, AI, and real-time applications.
 </p>
 
 <p>
@@ -18,74 +18,17 @@ Most of my projects focus on performance, developer experience, local-first syst
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 🧠 Mai 
-> Fully local AI assistant focused on privacy and offline usability.
+| Project | Description | Stack |
+|---|---|---|
+| **[GitScope](https://github.com/Aswanidev-vs/gitscope)** | Minimal and fast Git GUI built with Go + Fyne | `Go` `Fyne` |
+| **[ Mai](https://github.com/Aswanidev-vs/Mai)** | Fully local AI assistant with TTS and offline LLM support | `Go` `LLM` `TTS` `STT` `VAD` `autonomous` |
+| **[ Mana](https://github.com/Aswanidev-vs/Mana)** | Plug-and-play framework for WebRTC & WebSocket systems | `Go` `WebRTC` `Websocket` |
+| **[ Persona](https://github.com/Aswanidev-vs/Persona)** | Workspace & account manager extension for Chromium browsers | `JS` `Browser APIs` |
+ 
+ 📦 More Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
-### Features
-- Local LLM integration
-- Offline-first architecture
-- TTS-powered interaction
-- Privacy-focused design
-- Cross-platform goals
-
-### Tech
-`Go` 
-
----
-
-## 🌿 Mana
-> Plug-and-play real-time communication framework.
-
-A developer-focused framework that simplifies:
-- WebRTC integration
-- WebSocket communication
-- Peer-to-peer systems
-- Real-time applications
-
-### Goals
-- Minimal setup
-- Flexible architecture
-- Easy integration into Go projects
-
-### Tech
-`Go` `WebRTC` `WebSocket`
-
----
-
-## 🧭 GitScope
-> A modern Git GUI built with Go + Fyne.
-
-Designed to be:
-- Fast
-- Minimal
-- Distraction-free
-- Developer-friendly
-
-### Features
-- Clean Git visualization
-- Lightweight UI
-- Native desktop experience
-
-### Tech
-`Go` `Fyne` `Git`
-
----
-
-## 🪪 Persona
-> Workspace and account management extension for Chromium-based browsers.
-
-### Features
-- Workspace separation
-- Multi-account management
-- Productivity-focused workflow
-- Primarily optimized for Brave Browser
-
-### Tech
-`JavaScript` `Browser Extension APIs`
-
----
 
 # 🛠️ Tech Stack
 
@@ -97,7 +40,7 @@ Designed to be:
 
 ---
 
-# 📊 GitHub Activity
+# 📊 Activity
 
 <div align="center">
 
@@ -111,6 +54,8 @@ Designed to be:
 
 > I don’t build for hype.  
 > I build tools I would actually use.
+
+---
 
 <div align="center">
 
