@@ -1,65 +1,119 @@
-## ⚡ Who Am I 
-```go
-type Developer struct {
-    Name        string
-    Role        string
-    Focus       []string
-    Philosophy  string
-}
-me := Developer{
-    Name: "Aswanidev VS",
-    Role: "Go Developer",
-    Focus: []string{
-        "Developer Tools",
-        "System Utilities",
-        "Local AI Systems",
-    },
-    Philosophy: "Build fast. Keep it clean. Make it useful.",
-}
+# Hey, I'm Aswanidev vs
 
-```
----
-## 📬 Reach Me 🌐 <a href="https://aswanidev-vs.github.io/Portfolio/">Portfolio</a> 📧 <a href="mailto:workwithsakuta@protonmail.com">workwithsakuta@protonmail.com</a>
----
-## Projects
+<div align="center">
 
-*  **GitScope**
-  → A modern Git GUI built with Go + Fyne
-  → Minimal, fast, and distraction-free
+### Golang Developer • Builder • Open Source Enthusiast
 
-* **Offline AI Assistant** →
-Fully local LLM system
-TTS-powered interaction
-Privacy-first design
-
-* **Mana** →
-  A framework for implement both webrtc and websocket etc related things so a simple plug and play implementation.
-
-* **Persona** → A browser extension with account switcher and workspace implementation.it primarly focused on brave but the workspace would probabily work on the rest of the chromium based browsers.
-
----
-
-## 🧰 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode" />
+<p>
+I enjoy building fast, practical, and privacy-focused software using Go.
+Most of my projects focus on performance, developer experience, local-first systems, and clean UI/UX.
 </p>
 
-
-## 📊 Activity
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
+<p>
+  <a href="https://aswanidev-vs.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="mailto:workwithsakuta@protonmail.com">📧 Email</a>
 </p>
 
+</div>
+
 ---
 
-## 🌌 Mindset
+# 🚀 Featured Projects
 
-> I don’t build for hype.
+## 🧠 Mai 
+> Fully local AI assistant focused on privacy and offline usability.
+
+### Features
+- Local LLM integration
+- Offline-first architecture
+- TTS-powered interaction
+- Privacy-focused design
+- Cross-platform goals
+
+### Tech
+`Go` 
+
+---
+
+## 🌿 Mana
+> Plug-and-play real-time communication framework.
+
+A developer-focused framework that simplifies:
+- WebRTC integration
+- WebSocket communication
+- Peer-to-peer systems
+- Real-time applications
+
+### Goals
+- Minimal setup
+- Flexible architecture
+- Easy integration into Go projects
+
+### Tech
+`Go` `WebRTC` `WebSocket`
+
+---
+
+## 🧭 GitScope
+> A modern Git GUI built with Go + Fyne.
+
+Designed to be:
+- Fast
+- Minimal
+- Distraction-free
+- Developer-friendly
+
+### Features
+- Clean Git visualization
+- Lightweight UI
+- Native desktop experience
+
+### Tech
+`Go` `Fyne` `Git`
+
+---
+
+## 🪪 Persona
+> Workspace and account management extension for Chromium-based browsers.
+
+### Features
+- Workspace separation
+- Multi-account management
+- Productivity-focused workflow
+- Primarily optimized for Brave Browser
+
+### Tech
+`JavaScript` `Browser Extension APIs`
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode&perline=6" />
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🌌 Philosophy
+
+> I don’t build for hype.  
 > I build tools I would actually use.
 
----
+<div align="center">
 
+### ⚡ Code • Build • Iterate ⚡
 
-<h3 align="center">⚡ Code. Build. Iterate. ⚡</h3>
+</div>
