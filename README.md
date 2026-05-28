@@ -34,7 +34,7 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode&perline=12" />
 
 </div>
 
@@ -52,13 +52,5 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 # 🌌 Philosophy
 
-> I don’t build for hype.  
 > I build tools I would actually use.
-
 ---
-
-<div align="center">
-
-### ⚡ Code • Build • Iterate ⚡
-
-</div>
