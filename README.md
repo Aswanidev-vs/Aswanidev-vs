@@ -3,7 +3,7 @@
 <div align="center">
 
 ### ⚡ Golang Developer • Builder • Open Source Enthusiast
-
+![Animation](./mai_san.gif)
 <p>
 I build fast, practical, and privacy-focused software using Go.
 Focused on local-first systems, developer tooling, AI, and real-time applications.
