@@ -19,15 +19,7 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 ---
 
 # 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[GitScope](https://github.com/Aswanidev-vs/gitscope)** | Minimal and fast Git GUI built with Go + Fyne | `Go` `Fyne` |
-| **[ Mai](https://github.com/Aswanidev-vs/Mai)** | Fully local AI assistant with TTS and offline LLM support | `Go` `LLM` `TTS` `STT` `VAD` `autonomous` |
-| **[ Mana](https://github.com/Aswanidev-vs/Mana)** | Plug-and-play framework for WebRTC & WebSocket systems | `Go` `WebRTC` `Websocket` |
-| **[ Persona](https://github.com/Aswanidev-vs/Persona)** | Workspace & account manager extension for Chromium browsers | `JS` `Browser APIs` |
- 
- 📦 More Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
+ 📦 Visit Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
 
 # 🛠️ Tech Stack
