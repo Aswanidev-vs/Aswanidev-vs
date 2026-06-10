@@ -49,5 +49,6 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 # 🌌 Philosophy
 
-> I build tools I would actually use.
+> Life has no inherent meaning. We are merely roaming animals, wandering through the void, crafting our own purpose with every step.
+
 ---
