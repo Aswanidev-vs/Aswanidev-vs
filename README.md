@@ -16,6 +16,12 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 </div>
 
+---
+
+# currently developing projects
+Gocut:[Gocut](https://github.com/Aswanidev-vs/Gocut)
+
+---
 # 🚀 Projects
  📦 Visit Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
