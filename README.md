@@ -16,8 +16,6 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 </div>
 
----
-
 # 🚀 Projects
  📦 Visit Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
@@ -29,9 +27,6 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 <img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode&perline=12" />
 
 </div>
-
----
-
 # 📊 Activity
 
 <div align="center">
