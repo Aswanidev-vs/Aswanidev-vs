@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ⚡ Golang Developer • Builder • Open Source Enthusiast
+### ⚡ Golang Developer • Builder • Open Source Enthusiast • Agentic Engineering
 ![Animation](./mai_idle.gif)
 <p>
 I build fast, practical, and privacy-focused software using Go.
