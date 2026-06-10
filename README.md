@@ -16,12 +16,16 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 </div>
 
----
 
-# currently developing projects
-Gocut:[Gocut](https://github.com/Aswanidev-vs/Gocut)
+# What You Will Find Here
 
----
+
+🤖 AI applications and local LLM experiments</br>
+🎬 Media and content creation tools</br>
+⚙️ Developer tools and utilities</br>
+🖥️ Cross-platform desktop applications</br>
+🧪 Random experiments that somehow become real projects</br>
+
 # 🚀 Projects
  📦 Visit Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
