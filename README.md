@@ -40,9 +40,7 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 # 📊 Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswanidev-vs&theme=react-dark&hide_border=true&area=true" />
-
+https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/activity-graph.svg
 </div>
 
 ---
