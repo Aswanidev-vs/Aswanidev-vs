@@ -40,7 +40,7 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 # 📊 Activity
 
 <div align="center">
-https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/activity-graph.svg
+![Activity Graph](https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/activity-graph.svg)
 </div>
 
 ---
