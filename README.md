@@ -1,11 +1,13 @@
-#  Hey, I'm Aswanidev vs
+# Hey, I'm Aswanidev vs
 
 <div align="center">
 
 ### ⚡ Golang Developer • Builder • Open Source Enthusiast • Agentic Engineering
+
 ![Animation](./mai_idle.gif)
+
 <p>
-I build fast, practical, and privacy-focused software using Go.
+I build fast, practical, and privacy-focused software using Go.<br>
 Focused on local-first systems, developer tooling, AI, and real-time applications.
 </p>
 
@@ -16,19 +18,23 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 </div>
 
+---
 
 # What You Will Find Here
 
+🤖 AI applications and local LLM experiments<br>
+🎬 Media and content creation tools<br>
+⚙️ Developer tools and utilities<br>
+🖥️ Cross-platform desktop applications<br>
+🧪 Random experiments that somehow become real projects
 
-🤖 AI applications and local LLM experiments</br>
-🎬 Media and content creation tools</br>
-⚙️ Developer tools and utilities</br>
-🖥️ Cross-platform desktop applications</br>
-🧪 Random experiments that somehow become real projects</br>
+---
 
 # 🚀 Projects
- 📦 Visit Projects [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
 
+📦 Visit Projects · [View All Repositories](https://github.com/Aswanidev-vs?tab=repositories)
+
+---
 
 # 🛠️ Tech Stack
 
@@ -37,10 +43,15 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 <img src="https://skillicons.dev/icons?i=go,cpp,java,bash,html,css,js,php,mysql,docker,git,vscode&perline=12" />
 
 </div>
+
+---
+
 # 📊 Activity
 
 <div align="center">
-![Activity Graph](https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/activity-graph.svg)
+
+<img src="https://raw.githubusercontent.com/Aswanidev-vs/Aswanidev-vs/output/activity-graph.svg" alt="Activity Graph">
+
 </div>
 
 ---
