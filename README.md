@@ -58,6 +58,6 @@ Focused on local-first systems, developer tooling, AI, and real-time application
 
 # 🌌 Philosophy
 
-> Life has no inherent meaning. We are merely roaming animals, wandering through the void, crafting our own purpose with every step.
+> After all, life is just a playground to experience things. It doesn’t matter whether we win or lose. After all, we determine how to live and move forward.
 
 ---
